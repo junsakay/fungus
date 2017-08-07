@@ -1,2 +1,3 @@
 # fungus
-learn fugue
+Let's learn about Fungus!
+
